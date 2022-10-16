@@ -1,5 +1,4 @@
-# www.robotstxt.org/
-
-# Allow crawling of all content
+# All robots are welcome!
 User-agent: *
-Disallow: /dontindexthis
+Disallow:
+Sitemap: https://wiki.serilum.com/sitemap.xml
